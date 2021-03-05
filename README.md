@@ -21,4 +21,4 @@ Recuerden instalar los modulos de node con `npm install`.
 
 Si quieren probar la aplicación en producción les dejo el siguiente link: 
 
-[GifsApp](https://stoic-mestorf-c440b6.netlify.app)
+[PaisesApp](https://stoic-mestorf-c440b6.netlify.app)
